@@ -1,0 +1,19 @@
+STL is stands for standard template library.
+It is library of generic function and class .
+We use STL for reuse :- Well tesetd components , saves our time.
+
+COMPONENT OF STL:-> 1: CONTAINERS , 2: ALGORITHM , 3: ITERATORS.
+
+1: CONTAINERS :-> Containers are onject which is used to store data. they used template class also.
+
+2: ALGORITHM :-> Algorithm is a procedure to process Data . They use template function. shorting , deletion .
+
+3: ITERATORS :-> They are object which points to an element , they are used just like a pointer.
+                 They connects Algorithm with Containers.
+
+
+1: CONTAINERS :->  There are three types of container.
+1. Sequential  container :-> they store data in linear faishion . e.g : vector , list , Deque
+2. Associative connects :-> They are used to direct access (fast search / deletion) . They store data in tree faishion.
+                            e.g set , multiset , map , multimap.
+3. Drived Containers :-> They do real world   modeling. e.g: Stack , Queue , priority Queue.                          
